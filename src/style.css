@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background: whitesmoke;
+}
+
+button {
+  font-size: 1.25rem;
+  border: none;
+  cursor: pointer;
+  padding: 1rem;
+  text-transform: uppercase;
+  color: white;
+  background: #000;
+}
